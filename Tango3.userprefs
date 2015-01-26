@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TangoSDK/Examples/Scripts/Camera/CameraController/GestureCamera.cs">
+    <Files>
+      <File FileName="Assets/TangoSDK/Examples/Scripts/Camera/CameraController/GestureCamera.cs" Line="147" Column="14" />
+      <File FileName="Assets/TangoSDK/Examples/Scripts/Camera/CameraController/FirstPersonCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets/TangoSDK/Examples/Scripts/Camera/CameraController/CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets/TangoSDK/Examples/Scripts/Camera/CameraController/IBaseCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets/TangoSDK/Examples/Scripts/Camera/CameraRender/CameraRenderer.cs" Line="1" Column="1" />
+      <File FileName="Assets/TangoSDK/Examples/Scripts/Camera/ARScreen.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
